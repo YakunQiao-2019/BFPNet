@@ -26,13 +26,13 @@
 
 ​		BaiDuDisk :https://pan.baidu.com/s/1ti_aEp5tZRcWTWz5-W4zKA?pwd=j8fx
 
-​		ChromeDrive : https://drive.google.com/drive/folders/1YXmB7GkC5gSVOB8Bf8VCa1phZy5XDDpY?usp=drive_link
+​		ChromeDrive : https://drive.google.com/file/d/1z2-gu_nYl1c8K-2LmDgTWQoNTlOpX6dk/view?usp=drive_link
 
 **-- PVT-BFPNet:**
 
 ​		BaiDuDisk:
 
-​		ChromeDrive: 
+​		ChromeDrive: https://drive.google.com/file/d/1IUBOExIse2_NqtCKFrNwkvUATQnv5ibY/view?usp=drive_link
 
 **-- Evaluating:** You can directly download the EvaluationTool and use it with MATLAB for evaluation, or you can download the original evaluation method: https://github.com/DengPingFan/PraNet. Our evaluation method is consistent with that of PraNet, with only minor modifications made to the path.
 
