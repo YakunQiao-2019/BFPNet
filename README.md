@@ -254,7 +254,7 @@ BFP_Net/
 
 ## Pretrained BFPNet checkpoints
 
-| Model                  | Checkpoint | Prediction mode |
+| Model                  | Checkpoint | Prediction results |
 | ---------------------- | ---------- | --------------- |
 | BFPNet (Res2Net-50)    |            |                 |
 | PVT-BFPNet (PVT-V2-B2) |            |                 |
